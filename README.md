@@ -1,18 +1,25 @@
 # Quant
 
-Learn Quant with Me — from basics to advanced.
+A public record of my journey from beginner to quantitative developer and researcher.
 
-This repository documents my journey into quantitative finance, mathematics, statistics, probability, machine learning, and algorithmic trading.
+## About
 
-## Topics
+This repository contains my notes, research, implementations, and projects related to:
+
 - Mathematics
 - Probability & Statistics
-- Linear Algebra
-- Calculus
-- Programming
+- Python
+- C++
 - Machine Learning
 - Quantitative Finance
-- Algorithmic Trading
 
-## Goal
-To build a strong foundation in quantitative finance and eventually develop quantitative research and trading systems.
+## Progress Log
+
+- Day 1: Researching the Quant Roadmap
+
+## Repository Structure
+
+- `logs/` → Daily progress logs
+- `notes/` → Study notes
+- `projects/` → Quantitative finance projects
+- `resources/` → Books, courses, and references
