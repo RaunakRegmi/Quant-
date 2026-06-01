@@ -23,3 +23,5 @@ This repository contains my notes, research, implementations, and projects relat
 - `notes/` → Study notes
 - `projects/` → Quantitative finance projects
 - `resources/` → Books, courses, and references
+
+# Quant Journey: Day 1
